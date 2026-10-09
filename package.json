@@ -1,0 +1,30 @@
+{
+  "name": "online-bookstore-backend",
+  "version": "1.0.0",
+  "description": "Servidor backend para librería en línea con autenticación, gestión de reseñas y acceso concurrente",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test_client.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "keywords": [
+    "express",
+    "bookstore",
+    "jwt",
+    "async-await",
+    "promises",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
