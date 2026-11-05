@@ -1,0 +1,12 @@
+curl -X GET http://localhost:5000/author/"Jane Austen"
+
+{
+    "booksbyauthor": [
+        {
+            "isbn": "8",
+            "title": "Pride and Prejudice",
+            "reviews": {}
+        }
+    ]
+}
+

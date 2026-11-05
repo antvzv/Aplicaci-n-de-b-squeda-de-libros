@@ -1,0 +1,11 @@
+Comando: curl.exe -X DELETE "http://localhost:5000/review/TU_ISBN?username=TU_USUARIO"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot DELETE /review/TU_ISBN</pre>
+</body>
+</html>
